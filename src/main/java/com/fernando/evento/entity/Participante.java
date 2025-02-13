@@ -7,6 +7,6 @@ import jakarta.persistence.Id;
 public class Participante {
     
     @Id
-    private Long id;
+    private Integer id;
     
 }
